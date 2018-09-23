@@ -10,7 +10,7 @@ console.log("Welcome Again !");
 =================
 فديتك يا قلبييء ممكن تدخل السيرفر
 الدعوة خاصة لك
-https://discord.gg/fcNTZC
+https://discord.gg/hUdxZQU
 
  ... [ ${member}  ]
 **`) 
@@ -25,7 +25,7 @@ client.on("guildMemberAdd", member => {
 =================
 فديتك يا قلبييء ممكن تدخل السيرفر
 الدعوة خاصة لك
-https://discord.gg/fcNTZC
+https://discord.gg/hUdxZQU
 
  ... [ ${member}  ]
 **`) 
